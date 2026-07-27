@@ -49,4 +49,4 @@ No sé si a ti te pasa como a mí: **las ideas me circulan mucho más rápido qu
 
 **Ecelyo** es, sencillamente, una **metodología** que añade una **disciplina sencilla** a mi flujo de trabajo y que consigo sostener mediante una aplicación que me sirve de arnés, para no olvidar que, para mí, **son más importantes los pequeños logros del día a día**: dar siempre un paso más hacia delante y aprovechar cada pequeño avance para mejorar el rumbo. 
 
-Es **mejor algo terminado, aunque no sea óptimo, que algo perfecto pero hecho solo a medias**.
+Es **mejor algo terminado, aunque no sea óptimo, que algo perfecto pero dejado a medias**.
