@@ -6,4 +6,4 @@ Ecelyo is a completion-first methodology for organising work through systems, pr
 
 ## Most relevant articles
 
-1. [La filosofía detrás de Ecelyo](blogs/posts/es/01-ecelyo-filosofia.md)
+1. [La filosofía detrás de Ecelyo](https://maquert.github.io/Ecelyo_public/blog/posts/es/01-ecelyo-filosofia.html)
