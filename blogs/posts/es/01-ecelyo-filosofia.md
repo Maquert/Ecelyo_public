@@ -10,7 +10,12 @@ En Ecelyo se organiza el trabajo mediante una jerarquía estable:
 
 ***Sistema*** → ***Proyecto*** → ***Táctica*** → ***Tarea***
 
-El ***sistema*** representa el resultado que se desea entregar. Puede ser una aplicación, un producto, un libro, una investigación o cualquier otro entregable. Una aplicación del ecosistema Apple, por ejemplo, sigue siendo un único ***sistema*** aunque se distribuya mediante binarios para iPhone, iPad, macOS y visionOS, porque todos ellos comparten una misma base de conocimiento y se benefician del trabajo realizado sobre ella.
+El ***sistema*** representa el resultado que se desea entregar. Puede ser una aplicación, un producto, un libro, una investigación o cualquier otro entregable.
+
+> [!NOTE]
+> **Ejemplo**
+>
+> Una aplicación del ecosistema Apple sigue siendo un único ***sistema*** aunque se distribuya mediante binarios para iPhone, iPad, macOS y visionOS, porque todos ellos comparten una misma base de conocimiento y se benefician del trabajo realizado sobre ella.
 
 Dentro de ese ***sistema***, un ***proyecto*** representa un ámbito de responsabilidad. En una organización puede coincidir con un equipo, aunque esa no sea su definición: también puede corresponder a una plataforma, una aplicación concreta, la documentación o cualquier otro dominio funcional que agrupe trabajo relacionado.
 
