@@ -23,7 +23,7 @@ Las *tácticas* son unidades acotadas de ejecución. Cada una persigue un objeti
 
 Esta relación es exclusiva: una *tarea* pertenece a una sola *táctica*, una *táctica* a un solo *proyecto* y un *proyecto* a un solo *sistema*. Si una *tarea* deja de compartir el objetivo de su *táctica*, no se la reubica arbitrariamente; debe reconsiderarse la unidad de trabajo a la que pertenece. La rigidez es intencionada, porque la pérdida de flexibilidad reduce la ambigüedad y hace que el *sistema* resulte más sencillo de comprender y mantener.
 
-## Capturar es libre; ejecutar es disciplinado
+## La captura de tareas ha de ser libre; la ejecución, disciplinada
 
 Las ideas surgen de manera continua y en contextos muy distintos: durante una conversación con un cliente, al descubrir un error, mientras se desarrolla una funcionalidad o como consecuencia de una reflexión espontánea. Ecelyo no pretende controlar ese proceso creativo. La metodología reconoce que la captura puede producirse en cualquier momento y desde cualquier lugar; la aplicación interviene cuando una idea entra en el *sistema* y debe convertirse en trabajo estructurado.
 
@@ -35,6 +35,6 @@ Las *tácticas* son deliberadamente pequeñas porque su finalidad no consiste en
 
 ## Menos decisiones durante la ejecución
 
-Una consecuencia importante de esta estructura es que reduce la cantidad de decisiones necesarias mientras se trabaja. Cuando un humano o un agente comienza una *tarea*, no debería tener que reconstruir continuamente qué debe hacer a continuación: la prioridad, las dependencias, la *táctica* y el estado del trabajo ya proporcionan ese contexto. La ejecución debe emerger del flujo, no de decisiones repetidas.
+Una consecuencia importante de esta estructura es que reduce la cantidad de decisiones necesarias mientras se trabaja. Cuando un humano o un agente comienza una *tarea*, no debería tener que reconstruir continuamente qué debe hacer a continuación: la prioridad, las dependencias, la *táctica* y el estado del trabajo ya proporcionan ese contexto. **La ejecución debe emerger del flujo, no de decisiones repetidas.**
 
-Ecelyo no intenta reducir el número de ideas; intenta reducir cuánto tiempo una buena idea permanece esperando. Para lograrlo, no basta con estructurar el trabajo: también hay que ordenar su avance. Las *tácticas* son pequeñas, coherentes y secuenciales por defecto; el paralelismo aparece cuando la estructura lo hace explícito. Así, personas y agentes pueden avanzar a la vez sin pisarse, coordinándose mediante una estructura compartida en lugar de conversaciones constantes.
+Ecelyo no intenta reducir el número de ideas; **intenta reducir cuánto tiempo una buena idea queda esperando.** Para lograrlo, no basta con estructurar el trabajo: también hay que ordenar su avance. Las *tácticas* son pequeñas, coherentes y secuenciales por defecto; **el paralelismo aparece cuando la estructura lo hace explícito.** Así, personas y agentes pueden avanzar a la vez sin pisarse, coordinándose mediante una estructura compartida en lugar de conversaciones constantes.

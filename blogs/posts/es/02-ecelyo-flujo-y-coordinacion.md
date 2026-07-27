@@ -14,7 +14,7 @@ La secuencialidad constituye el caso base porque protege la coherencia. Si dos *
 
 Una *tarea* puede tener varias hijas. Cuando eso ocurre, el flujo se ramifica y las ramas pueden ejecutarse en paralelo, siempre que su independencia esté justificada por el diseño de la *táctica*. El paralelismo no se improvisa por entusiasmo ni se decide únicamente porque haya varios agentes disponibles: aparece cuando el grafo de *tareas* demuestra que varias líneas de trabajo pueden avanzar sin bloquearse ni pisarse.
 
-La estructura, por tanto, no limita la colaboración; la hace segura. En lugar de exigir conversaciones constantes para coordinar cada movimiento, ofrece a los actores un contexto común que indica qué puede comenzar, qué debe esperar y qué resultado se espera de cada *tarea*.
+**La estructura no limita la colaboración; la hace segura.** En lugar de exigir conversaciones constantes para coordinar cada movimiento, ofrece a los actores un contexto común que indica qué puede comenzar, qué debe esperar y qué resultado se espera de cada *tarea*.
 
 ## Una *tarea* preparada para ser ejecutada
 
