@@ -6,7 +6,7 @@ La mayoría de las herramientas intentan resolver este problema ofreciendo más 
 
 ## Una jerarquía orientada al resultado
 
-Ecelyo organiza el trabajo mediante una jerarquía estable:
+En Ecelyo se organiza el trabajo mediante una jerarquía estable:
 
 ```text
 Sistema → Proyecto → Táctica → Tarea
