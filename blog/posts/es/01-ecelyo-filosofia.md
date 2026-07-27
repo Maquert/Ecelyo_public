@@ -39,7 +39,7 @@ Una consecuencia importante de esta estructura es que reduce la cantidad de deci
 
 Ecelyo no intenta reducir el número de ideas; **intenta reducir cuánto tiempo una buena idea queda esperando.** Para lograrlo, no basta con estructurar el trabajo: también hay que ordenar su avance. Las *tácticas* son pequeñas, coherentes y secuenciales por defecto; **el paralelismo aparece cuando la estructura lo hace explícito.** Así, personas y agentes pueden avanzar a la vez sin pisarse, coordinándose mediante una estructura compartida en lugar de conversaciones constantes.
 
-## Impresiones
+## Impresiones y mi opinión personal
 
 **Esta metodología surge de mi propia experiencia**, después de años trabajando en auténticas epopeyas que tardaban mucho en comenzar —porque abarcaban demasiado y había que dejarlo todo muy bien atado— y, por supuesto, mucho en acabar, si es que acababan y no se quedaban a medias. Para mí, la productividad efectiva solo se obtiene cuando se produce algo como resultado de nuestro esfuerzo; no surge por el proceso en sí. Foco en las tareas, sin tratar de procrastinar pero tampoco de abarcar al mismo tiempo más de lo que lo nuestro cerebro permite.
 
@@ -49,4 +49,4 @@ No sé si a ti te pasa como a mí: **las ideas me circulan mucho más rápido qu
 
 **Ecelyo** es, sencillamente, una **metodología** que añade una **disciplina sencilla** a mi flujo de trabajo y que consigo sostener mediante una aplicación que me sirve de arnés, para no olvidar que, para mí, **son más importantes los pequeños logros del día a día**: dar siempre un paso más hacia delante y aprovechar cada pequeño avance para mejorar el rumbo. 
 
-Que es **mejor algo terminado, aunque no sea óptimo, que algo perfecto pero hecho solo a medias**.
+Es **mejor algo terminado, aunque no sea óptimo, que algo perfecto pero hecho solo a medias**.
